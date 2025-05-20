@@ -1,0 +1,8 @@
+{
+    "camera": {
+        "base_survival:first-person": "core:first-person",
+        "base_survival:third-person-front": "core:third-person-front",
+        "base_survival:third-person-back": "core:third-person-back",
+        "base_survival:cinematic": "core:cinematic"
+    }
+}

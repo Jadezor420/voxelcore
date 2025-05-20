@@ -1,0 +1,48 @@
+{
+  "entities": [
+    "drop",
+    "player",
+    "falling_block"
+  ],
+  "blocks": [
+    "dirt",
+    "grass_block",
+    "lamp",
+    "glass",
+    "planks",
+    "wood",
+    "leaves",
+    "water",
+    "sand",
+    "basalt",
+    "grass",
+    "flower",
+    "brick",
+    "metal",
+    "rust",
+    "red_lamp",
+    "green_lamp",
+    "blue_lamp",
+    "pane",
+    "pipe",
+    "lightbulb",
+    "torch",
+    "wooden_door",
+    "coal_ore",
+    "ice",
+    "andesite",
+    "cobbled_deepslate",
+    "cobblestone",
+    "diamond_ore",
+    "diorite",
+    "gold_ore",
+    "granite",
+    "iron_ore",
+    "lapis_ore",
+    "lava"
+  ],
+  "items": [
+    "basalt_breaker",
+    "diamond_item"
+  ]
+}
