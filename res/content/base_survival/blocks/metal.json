@@ -1,0 +1,5 @@
+{
+    "texture": "metal",
+    "material": "base_survival:metal",
+    "base_survival:durability": 10.0
+}

@@ -1,0 +1,7 @@
+{
+    "components": [
+        "base_survival:falling_block"
+    ],
+    "skeleton-name": "base_survival:block",
+    "hitbox": [0.98, 0.98, 0.98]
+}

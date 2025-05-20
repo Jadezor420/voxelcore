@@ -1,0 +1,7 @@
+{
+    "texture": "lamp",
+    "emission": [15, 14, 13],
+    "shadeless": true,
+    "material": "base_survival:glass",
+    "base_survival:durability": 0.3
+}

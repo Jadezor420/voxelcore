@@ -1,0 +1,15 @@
+{
+    "material": "base_survival:grass_block",
+    "texture-faces": [
+        "grass_side",
+        "grass_side",
+        "dirt",
+        "grass_top",
+        "grass_side",
+        "grass_side"
+    ],
+    "base_survival:durability": 1.7,
+    "base_survival:loot": [
+        {"item": "base_survival:dirt.item"}
+    ]
+}

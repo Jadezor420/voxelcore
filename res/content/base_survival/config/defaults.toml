@@ -1,0 +1,2 @@
+generator = "base_survival:survival"
+player-entity = "base_survival:player"

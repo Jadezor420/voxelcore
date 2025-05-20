@@ -1,0 +1,8 @@
+{
+    "texture": "ice",
+    "material": "base_survival:glass",
+    "draw-group": 4,
+    "light-passing": true,
+    "translucent": true,
+    "base_survival:durability": 0.3
+}

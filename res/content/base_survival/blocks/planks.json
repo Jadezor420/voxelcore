@@ -1,0 +1,5 @@
+{
+    "texture": "planks",
+    "material": "base_survival:wood",
+    "base_survival:durability": 5.0
+}

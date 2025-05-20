@@ -1,0 +1,6 @@
+{
+    "texture": "dirt",
+    "material": "base_survival:ground",
+    "surface-replacement": "base_survival:grass_block",
+    "base_survival:durability": 1.5
+}

@@ -1,0 +1,80 @@
+[forest]
+parameters = [
+    {weight=1, value=0},
+    {weight=0.5, value=0.2}
+]
+layers = [
+    {below-sea-level=false, height=1, block="base_survival:grass_block"},
+    {below-sea-level=false, height=7, block="base_survival:dirt"},
+    {height=10, block="base_survival:cobblestone"},
+    {height=3, block="base_survival:granite"},
+    {height=2, block="base_survival:diorite"},
+    {height=5, block="base_survival:cobblestone"},
+    {height=4, block="base_survival:granite"},
+    {height=3, block="base_survival:diorite"},
+    {height=-1, block="base_survival:cobbled_deepslate"},
+    {height=1, block="base_survival:basalt"}
+]
+sea-layers = [
+    {height=-1, block="base_survival:water"}
+]
+plant-chance = 0.4
+plants = [
+    {weight=1, block="base_survival:grass"},
+    {weight=0.03, block="base_survival:flower"}
+]
+structure-chance = 0.032
+structures = [
+    {name="tree0", weight=1},
+    {name="tree1", weight=1},
+    {name="tree2", weight=1},
+    {name="tower", weight=0.002}
+]
+
+[desert]
+parameters = [
+    {weight=1.0, value=1},
+    {weight=0.8, value=0}
+]
+layers = [
+    {height=6, block="base_survival:sand"},
+    {height=8, block="base_survival:cobblestone"},
+    {height=4, block="base_survival:granite"},
+    {height=5, block="base_survival:cobblestone"},
+    {height=3, block="base_survival:diorite"},
+    {height=-1, block="base_survival:cobbled_deepslate"},
+    {height=1, block="base_survival:basalt"}
+]
+sea-layers = [
+    {height=-1, block="base_survival:water"}
+]
+
+[plains]
+parameters = [
+    {weight=0.8, value=0.5},
+    {weight=0.8, value=0.0}
+]
+layers = [
+    {below-sea-level=false, height=1, block="base_survival:grass_block"},
+    {below-sea-level=false, height=5, block="base_survival:dirt"},
+    {height=6, block="base_survival:cobblestone"},
+    {height=3, block="base_survival:granite"},
+    {height=2, block="base_survival:diorite"},
+    {height=4, block="base_survival:cobblestone"},
+    {height=2, block="base_survival:granite"},
+    {height=-1, block="base_survival:cobbled_deepslate"},
+    {height=1, block="base_survival:basalt"}
+]
+sea-layers = [
+    {height=-1, block="base_survival:water"}
+]
+plant-chance = 0.3
+plants = [
+    {weight=1, block="base_survival:grass"},
+    {weight=0.03, block="base_survival:flower"}
+]
+structure-chance = 0.0001
+structures = [
+    {name="tree0", weight=1},
+    {name="tree1", weight=1}
+]

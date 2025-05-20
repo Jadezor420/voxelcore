@@ -1,0 +1,5 @@
+{
+    "texture": "sand",
+    "material": "base_survival:sand",
+    "base_survival:durability": 0.7
+}

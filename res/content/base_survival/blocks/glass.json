@@ -1,0 +1,9 @@
+{
+    "texture": "glass",
+    "material": "base_survival:glass",
+    "draw-group": 2,
+    "light-passing": true,
+    "sky-light-passing": true,
+    "translucent": true,
+    "base_survival:durability": 0.36
+}
