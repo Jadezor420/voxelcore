@@ -12,7 +12,6 @@
     "planks",
     "wood",
     "leaves",
-    "stone",
     "water",
     "sand",
     "basalt",
@@ -30,9 +29,20 @@
     "torch",
     "wooden_door",
     "coal_ore",
-    "ice"
+    "ice",
+    "andesite",
+    "cobbled_deepslate",
+    "cobblestone",
+    "diamond_ore",
+    "diorite",
+    "gold_ore",
+    "granite",
+    "iron_ore",
+    "lapis_ore",
+    "lava"
   ],
   "items": [
-    "basalt_breaker"
+    "basalt_breaker",
+    "diamond_item"
   ]
 }
